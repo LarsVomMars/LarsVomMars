@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lars</h1>
-<p align="center"> <a href="https://twitter.com/_larsvommars" target="blank"><img src="https://img.shields.io/twitter/follow/_larsvommars?logo=twitter&style=for-the-badge" alt="_larsvommars" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_larsvommars" target="_blank"><img src="https://img.shields.io/twitter/follow/_larsvommars?logo=twitter&style=for-the-badge" alt="_larsvommars" /></a> </p>
 <h3 align="center">A student and developer in various areas, specialized in Python, JavaScript and its variations</h3>
 
 <p align="center">
